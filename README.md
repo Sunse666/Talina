@@ -289,6 +289,9 @@ icon = .\icons\vscode.png
 key = V
 ```
 
+> [!TIP]
+> 这里给一个键盘样式的布局: [config.ini](config.ini)
+
 
 ## 🛠️ 技术特点
 - 基于 Chromium WebView2 渲染引擎，布局保留了css风味
